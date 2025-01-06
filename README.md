@@ -78,137 +78,136 @@
             <p>$1</p>
         </div>
         <div class="product">
-             <alt="Crystal Ring + Necklace Set">
+             Crystal Ring + Necklace Set
             <h2>Crystal Ring + Necklace Set</h2>
             <p>$7</p>
         </div>
         <div class="product">
-            <alt="blue heart bracelet">
+            blue heart bracelet
             <h2>blue heart bracelet</h2>
             <p>$3</p>
         </div> 
         <div class="product">
-            <alt="pink raspberry bracelet">
+        pink raspberry bracelet
             <h2>pink raspberry bracelet</h2>
             <p>$3</p>
              </div>
         <div class="product">
-            <alt="strawberry red bracelet">
+            strawberry red bracelet
             <h2>strawberry red bracelet</h2>
             <p>$2</p>
              </div>
         <div class="product">
-            <alt="white anklet">
+            white anklet
             <h2>white anklet</h2>
             <p>$4</p>
              </div>
         <div class="product">
-            <alt="purple bestie chain">
+            purple bestie chain
             <h2>purple bestie chain</h2>
             <p>$1.5</p>
              </div>
         <div class="product">
-            <alt="black and white anklet">
+            black and white anklet
             <h2>black and white anklet</h2>
             <p>$4</p>
              </div>
         <div class="product">
-            <alt="sea star bracelet">
+            sea star bracelet
             <h2>sea star bracelet</h2>
             <p>$3</p>
              </div>
         <div class="product">
-            <alt="little purple ring">
+            little purple ring
             <h2>little purple ring</h2>
             <p>$0.50</p>
              </div>
         <div class="product">
-            <alt="orange flowers cell phone chain">
+        orange flowers cell phone chain
             <h2>orange flowers cell phone chain</h2>
             <p>$5</p>
              </div>
         <div class="product">
-            <alt="purple and black cell phone chain with your name on it">
+            purple and black cell phone chain with your name on it
             <h2>purple and black cell phone chain with your name on it</h2>
             <p>$5</p>
              </div>
         <div class="product">
-            <alt="">
+   pink and withe cell phone chain
             <h2>pink and white cell phone chain</h2>
             <p>$5</p>
              </div>
         <div class="product">
-            <alt="2 in 1 Necklace with the colors orange, yellow and green">
+            2 in 1 Necklace with the colors orange, yellow and green
             <h2>2 in 1 Necklaceeith the colors orange, yellow and green</h2>
             <p>$5</p>
              </div>
         <div class="product">
-            <alt="full blue cell phone chain">
-            <h2>full blue cell phone chain</h2>
+            full blue cell phone chain
+         <h2>full blue cell phone chain</h2>
             <p>$5</p>
              </div>
         <div class="product">
-            <alt="multi color belly chain">
+            multi color belly chain
             <h2>multi color belly chain</h2>
             <p>$6</p>
              </div>
         <div class="product">
-            <alt="water melon ring">
+            water melon ring
             <h2>watwr melon ring</h2>
             <p>$0.50</p>
              </div>
         <div class="product">
-            <alt="water melon Necklace">
+            water melon Necklace
             <h2>water melon Necklace</h2>
             <p>$4</p>
              </div>
         <div class="product">
-            <alt="yellow Bracelet">
+            yellow Bracelet
             <h2>yellow bracelet</h2>
             <p>$3</p>
              </div>
         <div class="product">
-            <alt="flowers bracelet">
+            flowers bracelet
             <h2>flowers bracelet</h2>
             <p>$5</p>
              </div>
         <div class="product">
-            <alt="apple Bracelet">
+            apple Bracelet
             <h2>apple bracelet</h2>
             <p>$3</p>
              </div>
         <div class="product">
-            <alt="turtle Bracelet">
+            turtle Bracelet
             <h2>turtle braceler</h2>
             <p>$3</p>
              </div>
         <div class="product">
-            <alt="blue heart bracelet">
+            blue heart bracelet
             <h2>blue heart bracelet</h2>
             <p>$3</p>
              </div>
         <div class="product">
-            <alt="beach Necklace">
+            beach Necklace
             <h2>beach bracelet</h2>
             <p>$3</p>
              </div>
         <div class="product">
-            <alt="bear bracelet">
+            bear bracelet
             <h2>bear bracelet</h2>
             <p>$4</p>
              </div>
         <div class="product">
-            <alt="fushia bracelet and Necklace">
+            fushia bracelet and Necklace
             <h2>fushia bracelet and Necklace</h2>
             <p>$5</p>
              </div>
         <div class="product">
-            <alt="shellfish Necklace and bracelet">
+        shellfish Necklace and bracelet
             <h2>shellfish Necklace and bracelet</h2>
             <p>$6</p>
-   </main>
-    <footer>
+        </footer>
       Follow us on Instagram</a> for more creations!</p>
     </footer>
 </body>
-</html>
+        </html>
